@@ -2,6 +2,7 @@ com\oslomet\productapi\models\ProductApiResponse.class
 com\oslomet\productapi\config\FeatureFlags.class
 com\oslomet\productapi\service\ProductService.class
 com\oslomet\productapi\repositories\ProductRepository.class
+com\oslomet\productapi\utility\BlackFridaySale.class
 com\oslomet\productapi\models\Product.class
 com\oslomet\productapi\controllers\ProductController.class
 com\oslomet\productapi\ProductApiApplication.class

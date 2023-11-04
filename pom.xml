@@ -15,7 +15,7 @@
 	<description>Devops Project for ACIT 4410</description>
 	<properties>
 		<java.version>17</java.version>
-		<start-class>com.oslomet.productapi.SpringBoot3FeatureFlagDemoApplication</start-class>
+		<start-class>com.oslomet.productapi.ProductApiApplication</start-class>
 	</properties>
 	<dependencies>
 		<dependency>

@@ -1,7 +1,8 @@
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\models\ProductApiResponse.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\ProductApiApplication.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\repositories\ProductRepository.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\models\Product.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\service\ProductService.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\config\FeatureFlags.java
-D:\Masters ACIT\ACIT 4410\Project Canario\ProductAPI\src\main\java\com\oslomet\productapi\controllers\ProductController.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\controllers\ProductController.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\models\ProductApiResponse.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\utility\BlackFridaySale.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\repositories\ProductRepository.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\models\Product.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\service\ProductService.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\config\FeatureFlags.java
+D:\Masters ACIT\ProductApi\src\main\java\com\oslomet\productapi\ProductApiApplication.java
